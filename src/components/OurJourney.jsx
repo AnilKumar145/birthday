@@ -195,3 +195,4 @@ export default function OurJourney({ onNext, meetingTimeLeft }) {
     </section>
   );
 }
+

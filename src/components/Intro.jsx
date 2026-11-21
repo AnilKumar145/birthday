@@ -249,3 +249,4 @@ export default function Intro({ onBeginStory }) {
     </section>
   );
 }
+
